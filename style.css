@@ -1,0 +1,14 @@
+body{font-size: 25px; font-family: Georgia, 'Times New Roman', Times, serif;}
+     form{
+border: 10px solid #a56108;
+padding: 20px;
+width: 300px;
+border-radius: 10px;
+     }
+     
+     form label,
+input{
+     display: block;
+     margin-bottom: 2px;
+}
+container {align-items: center;}
